@@ -3,5 +3,7 @@ public class Ejercicio {
         System.out.println("Hola mundo");
         System.out.println("Repaso comando git");
         System.out.println("Yeison Fabian Gomez Rodriguez = Java");
+
+        System.out.println("Solucion");
     }
 }
